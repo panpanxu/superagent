@@ -1,6 +1,6 @@
 # superagent
 
-Workspace for the dsh-superagent prototype: an agent that takes requests from
+Workspaces for the dsh-superagent prototype: an agent that takes requests from
 GitHub Issues and comments, evaluates them under a Policy, and executes each
 approved request in its own DSH Session.
 
